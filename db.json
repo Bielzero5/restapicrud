@@ -1,11 +1,20 @@
 {
   "produtos": [
     {
-      "id": 1,
-      "descricao": "Victor Oliveira",
-      "quantidade": "victormacgrath@gmail.com",
-      "valorUni": "15,00",
-      "dataEntrada": "15/06/2021"
+      "descricao": "Borracha",
+      "quantidade": 12,
+      "valorUni": 1.25,
+      "dataEntrada": "2021-06-15",
+      "id": 5,
+      "imgLink": "https://img.kalunga.com.br/fotosdeprodutos/068643z_1.jpg"
+    },
+    {
+      "descricao": "Caderno",
+      "quantidade": 25,
+      "valorUni": 15,
+      "dataEntrada": "2021-06-15",
+      "id": 6,
+      "imgLink": "https://cdnv2.moovin.com.br/marbig/imagens/produtos/original/caderno-espiral-capa-dura-universitario-1-materia-d-feminino-96-folhas-img-82471.jpg"
     }
   ]
 }
