@@ -1,0 +1,11 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "descricao": "Victor Oliveira",
+      "quantidade": "victormacgrath@gmail.com",
+      "valorUni": "15,00",
+      "dataEntrada": "15/06/2021"
+    }
+  ]
+}
